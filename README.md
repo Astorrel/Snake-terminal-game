@@ -13,5 +13,9 @@ Juego clásico de la serpiente desarrollado para consola/terminal enfocado en l�
 * Librerías nativas estándar (`os`, `sys`, `time`, `msvcrt` / `select`, `termios`)
 
 ## Cómo ejecutar
-```bash
-python snaketerminal.py
+1. Para Windows:
+   ```bash
+   python snaketerminal.py
+2. Para Linux:
+   ```bash
+   python3 snaketerminal.py
