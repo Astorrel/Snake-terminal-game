@@ -16,6 +16,8 @@ Juego cl√°sico de la serpiente desarrollado para consola/terminal enfocado en l√
 1. Para Windows:
    ```bash
    python snaketerminal.py
+   ```
 2. Para Linux:
    ```bash
    python3 snaketerminal.py
+   ```
